@@ -1,0 +1,1 @@
+export { UwsLogo } from "./UwsLogo";
